@@ -2,7 +2,7 @@
 
 A beautifully animated bento card with smooth entrance and exit animations, built with Next.js and Motion.
 
-![Demo](./demo.png)
+![Demo](https://github.com/nabedkhan/animated-bento-card/blob/main/public/demo.png)
 
 ## Features
 
